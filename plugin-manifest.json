@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "name": "netrecon",
+  "version": "0.1.0",
+  "description": "Network Reconnaissance — passive DNS, WHOIS/RDAP, Certificate Transparency, subdomain enumeration, IP geolocation, ASN mapping. Identifies CDN, cloud, government, and military infrastructure. Risk scoring for exposed services.",
+  "author": "DigitalArsenal",
+  "license": "Apache-2.0",
+  "inputFormats": ["application/json"],
+  "outputFormats": ["$NET"]
+}
